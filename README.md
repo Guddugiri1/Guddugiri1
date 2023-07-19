@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guddugiri
-- 👀 I’m interested in coding...
-- 🌱 Currently I’m Studing in Silver Oak University ...
+- 👀 I’m interested in coding.
+- 🌱 Currently I’m Studing in Silver Oak University.
 - 💞️ Currently I'm Intern In StaytunedLLP Full Stack Software Engineer.
 - Visit My Portfolio Website
 -  https://guddugiri1.github.io/myportfolio.github.io/
