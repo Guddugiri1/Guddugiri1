@@ -3,6 +3,10 @@
 - 🌱 Currently I’m Studing in Silver Oak University.
 - 💞️ Currently I'm Intern In StaytunedLLP Full Stack Software Engineer.
 - Visit My Portfolio Website
+
+- https://gudduportfolio.netlify.app/
+
+  
 -  https://guddugiri1.github.io/myportfolio.github.io/
 
 -  Tik Tok ToyGame
