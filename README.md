@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guddugiri
 - 👀 I’m interested in coding.
 - 🌱 Currently I’m Studing in Silver Oak University.
-- 💞️ Currently I'm searching for a job
+- 💞️ https://urlwebwala.com/
 
 - https://gudduportfolio.netlify.app/
 
