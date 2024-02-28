@@ -1,3 +1,6 @@
+
+![guddu](https://github.com/Guddugiri1/Guddugiri1/assets/129716426/4394ba55-c59d-401e-80ae-917f0ebca9e3)
+
 - 👋 Hi, I’m @Guddugiri
 - 👀 I’m interested in coding.
 - 🌱 Currently I’m Studing in Silver Oak University.
