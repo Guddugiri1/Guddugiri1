@@ -1,15 +1,15 @@
 
 ![guddu](https://github.com/Guddugiri1/Guddugiri1/assets/129716426/4394ba55-c59d-401e-80ae-917f0ebca9e3)
 
-- 👋 Hi, I’m @Guddugiri
-- 👀 I’m interested in coding.
-- 🌱 Currently I’m Studing in Silver Oak University.
-- 💞️ https://urlwebwala.com/
+                            👋 Hi, I’m Guddu Giri
+                       - 👀 I’m interested in coding.
+            - 🌱 Currently I’m Studing in Silver Oak University
+                       - 💞️ https://urlwebwala.com/
 
-- https://gudduportfolio.netlify.app/
+                   - https://gudduportfolio.netlify.app/
 
   
--  https://guddugiri1.github.io/myportfolio.github.io/
+          -  https://guddugiri1.github.io/myportfolio.github.io/
 
 -  Tik Tok ToyGame
 -  https://guddugiri1.github.io/tik_tok_toygame.io.in/
