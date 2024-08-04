@@ -22,14 +22,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://gudduportfolio.netlify.app/">Guddu Giri</a></b>
+                <b><a target="_blank" href="https://gudduportfolio.vercel.app/">Guddu Giri</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://gudduportfolio.netlify.app/">「 Google Me 」</a>
+    <a href="https://gudduportfolio.vercel.app/">「 Google Me 」</a>
     <br>
     「 I am a full stack web developer from <b>Ahemdabad</b> 」
     <br>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://urlwebwala.com" target="blank">
+ <a href="https://gudduportfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/guddu-giri-505597266" target="_blank">
@@ -68,7 +68,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: guddugiri216@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://urlwebwala.com)
+ 💬 &emsp; Ask me about anything [here](https://gudduportfolio.vercel.app/)
 
 </p>
 
