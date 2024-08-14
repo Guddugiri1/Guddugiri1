@@ -94,7 +94,7 @@
 <b>My GitHub Stats</b>
 
 <p align="left">
-  <a href="https://github.com/Guddugiri1"><img src="https://github-readme-stats.vercel.app/api?username=om-prakash416&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guddugiri1 GitHub stats" /></a>
+  <a href="https://github.com/Guddugiri1"><img src="https://github-readme-stats.vercel.app/api?username=Guddugiri1&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guddugiri1 GitHub stats" /></a>
   <a href="http://www.github.com/Guddugiri1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guddugiri1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
