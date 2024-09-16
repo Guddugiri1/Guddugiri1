@@ -78,11 +78,12 @@
 
 ## Use To Code
 
- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,tailwind,bootstrapjs,jquery,php,figma,react,nodejs,nextjs,flutter,mongodb,firebase,java,py,pycharm,anaconda,androidstudio,angular,aws,clion,cloudflare,linkedin,linux,visualstudio,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,tailwind,bootstrap,jquery,php,figma,react,nodejs,nextjs,flutter,mongodb,firebase,java,py,pycharm,anaconda,androidstudio,angular,aws,clion,cloudflare,linkedin,linux,visualstudio,wordpress" />
   </a>
 </p>
+
 
 
 <br>
