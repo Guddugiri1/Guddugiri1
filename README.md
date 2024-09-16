@@ -31,7 +31,7 @@
   <samp>
     <a href="https://gudduportfolio.vercel.app/">「 Google Me 」</a>
     <br>
-    「 I am a full stack web developer from <b>Ahemdabad</b> 」
+    「 FUll Stack Developer @ RAAPYD 」
     <br>
     <br>
   </samp>
