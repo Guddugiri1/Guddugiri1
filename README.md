@@ -80,7 +80,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,anaconda,c,cpp,androidstudio,angular,aws,clion,cloudflare,html,css,js,jquery,php,figma,react,firebase,nodejs,nextjs,flutter,mongodb,java,linkedin,linux,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,anaconda,androidstudio,angular,aws,clion,cloudflare,html,css,tailwind	,js,jquery,php,figma,react,firebase,nodejs,nextjs,flutter,mongodb,java,linkedin,linux,visualstudio,bootstrap,py,pycharm,wordpress	" />
   </a>
 </p>
 
